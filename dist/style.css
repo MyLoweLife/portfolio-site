@@ -66,13 +66,13 @@ h2 {
 h3 {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  padding-left: 10rem;
+  padding-left: 7.8rem;
   font-style: italic;
 }
 
 p {
-  padding-left: 10rem;
-  padding-right: 10rem;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 body {
